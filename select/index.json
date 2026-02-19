@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "It's My Life",
+  "base_artist": "bon jovi",
+  "createdAt": "2026-02-19T16:17:22.101285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's My Life (Jacques Lu Cont's Thin White Duke Mix)",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/01_It's_My_Life_(Jacques_Lu_Cont's_Thin_White_Duke_Mix)_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/02_It's_My_Life_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "DJ Bobo",
+      "has_synced": false,
+      "path": "select/03_It's_My_Life_DJ_Bobo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's My Life - Radio Edit",
+      "artist": "Sash!",
+      "has_synced": false,
+      "path": "select/04_It's_My_Life_-_Radio_Edit_Sash!.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's My Life Part II",
+      "artist": "Sash!",
+      "has_synced": false,
+      "path": "select/05_It's_My_Life_Part_II_Sash!.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/06_It's_My_Life_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's My Life (Natural Born Grooves Remix)",
+      "artist": "Sash!",
+      "has_synced": false,
+      "path": "select/07_It's_My_Life_(Natural_Born_Grooves_Remix)_Sash!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's My Life (Remix)",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/08_It's_My_Life_(Remix)_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/09_It's_My_Life_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/10_It's_My_Life_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/11_It's_My_Life_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/12_It's_My_Life_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/13_It's_My_Life_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's My Life - U.K. Radio Edit (Dave Bascombe Mix)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/14_It's_My_Life_-_U.K._Radio_Edit_(Dave_Bascombe_Mix)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's My Life (Dave Bascombe Mix)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/15_It's_My_Life_(Dave_Bascombe_Mix)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's My Life (2003 Acoustic Version)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/16_It's_My_Life_(2003_Acoustic_Version)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's My Life (Toronto, Canada 2000)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/17_It's_My_Life_(Toronto,_Canada_2000)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's My Life (Extended Mix)",
+      "artist": "Talk Talk",
+      "has_synced": true,
+      "path": "select/18_It's_My_Life_(Extended_Mix)_Talk_Talk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's my Life",
+      "artist": "Bon jovi",
+      "has_synced": false,
+      "path": "select/pl_01_It's_my_Life_Bon_jovi.txt"
+    }
+  ]
+}
